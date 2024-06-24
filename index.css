@@ -2,3 +2,7 @@ body{
     background-color: yellowgreen;
 }
 h1{color: brown;}
+
+.forest{background-color: black;
+color: antiquewhite;}
+.games{background-color: pink;font-family:'Times New Roman', Times, serif;}
